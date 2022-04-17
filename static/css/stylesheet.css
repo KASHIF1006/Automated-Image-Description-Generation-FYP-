@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.bodyDiv{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(249,249,249,1) 35%, rgba(246,253,255,1) 100%);
+    height:auto;
+}
+
+.headerDiv{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#head{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color:white;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Raleway;
+}
+
+.contentDiv{
+    padding-top: 40px;
+}
+
+#contentHead{
+    font-size: 50px;
+    text-align: center;
+    font-family: dosis;
+    font-style: bold;
+}
+
+#contentPara{
+    padding: 20px;
+    font-size: 20px;
+    font-family: dosis;
+    text-align: justify;
+}
+
+form{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#predictHead{
+    font-size: 50px;
+    text-align: center;
+    font-family: dosis;
+    font-style: bold;
+    padding-bottom: 30px;
+}
+
+#predictCaption{
+    margin-top: 20px;
+    text-align: center;
+}
